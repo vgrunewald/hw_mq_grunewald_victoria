@@ -1,0 +1,8 @@
+body {
+	background-color: #cf3e56;
+}
+@media screen and (min-width: 715px) and (max-width: 960px) {
+	body {
+		background-color: #4a5e5a;
+	}
+}
